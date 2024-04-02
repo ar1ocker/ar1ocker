@@ -1,8 +1,6 @@
 # AR1OCKER
 
-## ССЫЛКИ
-
-### SQUAD GAME
+## 🔫 SQUAD GAME
 💼 [Squad-Admin-Configurator](https://github.com/ar1ocker/Squad-Admin-Configurator) - Сервис управление привилегированными пользователями и ротациями в Squad
 
 Python, Django 4.2, Django Cron, Nginx, PostgreSQL, Docker Compose
@@ -35,7 +33,7 @@ JavaScript, SquadJS
 
 JavaScript, SquadJS
 
-### OTHERS
+## 🤔 OTHERS
 
 📱 [LOST.DIR-recover](https://github.com/ar1ocker/LOST.DIR-recover) - Восстановление расширений файлов
 
