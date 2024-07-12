@@ -7,6 +7,8 @@
 
 📢 [Squad-Discord-Info](https://github.com/ar1ocker/Squad_Discord_Info) **- Отображение состояния сервера Squad в статусе бота в Discord.** Golang, DiscordGo
 
+⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **-Скрипт для скачивания модов на сервер Squad.** Python
+
 📈 [Squad-rotation-balancer](https://github.com/ar1ocker/Squad-rotation-balancer) **- Приложение для балансировки ротаций с учетом предпочтений игроков к определенным картам.** Python, NiceGUI, Matplotlib, Docker Compose, Nginx
 
 🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- Плагин для SquadJS на голосование запускаемое командиром стороны (CMD) для разжалования командира отряда.** JavaScript, SquadJS
