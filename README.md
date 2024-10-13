@@ -11,6 +11,8 @@
 
 📈 [Squad-rotation-balancer](https://github.com/ar1ocker/Squad-rotation-balancer) **- Приложение для балансировки ротаций с учетом предпочтений игроков к определенным картам.** Python, NiceGUI, Matplotlib, Docker Compose, Nginx
 
+🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- Плагин для SquadJS для блокирования ролей игрокам с малым суммарным временем игры.**
+
 🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- Плагин для SquadJS на голосование запускаемое командиром стороны (CMD) для разжалования командира отряда.** JavaScript, SquadJS
 
 ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- Плагин для SquadJS который показывает командиров сторон (CMD) через определенное время после старта карты.** JavaScript, SquadJS
