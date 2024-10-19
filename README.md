@@ -1,5 +1,19 @@
 # AR1OCKER
 
+# Multi-language
+
+The following programs/scripts/plugins have multi-language support
+
+## 🔫 SQUAD GAME
+
+🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- A plugin for SquadJS to block roles for players with low total play time.**
+
+🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- A plugin for SquadJS for a vote triggered by a side commander (CMD) to demote a squad leader.** JavaScript, SquadJS
+
+ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- A plugin for SquadJS that shows side commanders (CMD) after a certain time after the map starts.** JavaScript, SquadJS
+
+# Russian
+
 ## 🔫 SQUAD GAME
 
 💼 [Squad-Admin-Configurator](https://github.com/ar1ocker/Squad-Admin-Configurator) **- Сервис управление привилегированными пользователями и ротациями в Squad.** Python, Django 4.2, Django Cron, Nginx, PostgreSQL, Docker Compose
