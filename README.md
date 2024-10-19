@@ -4,7 +4,7 @@
 
 The following programs/scripts/plugins have multi-language support
 
-## 🔫 SQUAD GAME
+### 🔫 SQUAD GAME
 
 🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- A plugin for SquadJS to block roles for players with low total play time.**
 
@@ -14,17 +14,17 @@ The following programs/scripts/plugins have multi-language support
 
 # English
 
-## 🔫 SQUAD GAME
+### 🔫 SQUAD GAME
 
 ⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- Script for downloading mods to Squad server.** Python
 
-## 🤔 OTHERS
+### 🤔 OTHERS
 
 📱 [LOST.DIR-recover](https://github.com/ar1ocker/LOST.DIR-recover) **- Recover file extensions.** Python, Fleep 
 
 # Russian
 
-## 🔫 SQUAD GAME
+### 🔫 SQUAD GAME
 
 💼 [Squad-Admin-Configurator](https://github.com/ar1ocker/Squad-Admin-Configurator) **- Сервис управление привилегированными пользователями и ротациями в Squad.** Python, Django 4.2, Django Cron, Nginx, PostgreSQL, Docker Compose
 
