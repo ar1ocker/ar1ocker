@@ -6,17 +6,19 @@ The following programs/scripts/plugins have multi-language support
 
 ### 🔫 SQUAD GAME
 
-🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- A plugin for SquadJS to block roles for players with low total play time.**
+🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- The plugin for SquadJS to block roles for players with low total play time.**
 
-🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- A plugin for SquadJS for a vote triggered by a side commander (CMD) to demote a squad leader.** JavaScript, SquadJS
+🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- The plugin for SquadJS for a vote triggered by a side commander (CMD) to demote a squad leader.** JavaScript, SquadJS
 
-ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- A plugin for SquadJS that shows side commanders (CMD) after a certain time after the map starts.** JavaScript, SquadJS
+🛡️ [SquadJS-Command-Squad-Name-Protection](https://github.com/ar1ocker/SquadJS-Command-Squad-Name-Protection) **- The plugin protects against the manual creation of a squad named "Command Squad"** JavaScript, SquadJS
+
+ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- The plugin for SquadJS that shows side commanders (CMD) after a certain time after the map starts.** JavaScript, SquadJS
 
 # English
 
 ### 🔫 SQUAD GAME
 
-⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- Script for downloading mods to Squad server.** Python
+⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- The Script for downloading mods to Squad server.** Python
 
 ### 🤔 OTHERS
 
