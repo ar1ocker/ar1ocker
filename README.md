@@ -40,6 +40,8 @@ The following programs/scripts/plugins have multi-language support
 
 🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- Плагин для SquadJS на голосование запускаемое командиром стороны (CMD) для разжалования командира отряда.** JavaScript, SquadJS
 
+🛡️ [SquadJS-Command-Squad-Name-Protection](https://github.com/ar1ocker/SquadJS-Command-Squad-Name-Protection) **- Плагин для защиты от ручного создания сквада с именем "Command Squad"** JavaScript, SquadJS
+
 ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- Плагин для SquadJS который показывает командиров сторон (CMD) через определенное время после старта карты.** JavaScript, SquadJS
 
 🦈 [SquadJS-Cheater-Detection](https://github.com/ar1ocker/SquadJS-cheater-detection) **- Плагин для SquadJS на выявления читеров спамящих ApplyExplosiveDamage.** JavaScript, SquadJS
