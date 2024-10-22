@@ -18,6 +18,8 @@ The following programs/scripts/plugins have multi-language support
 
 ### 🔫 SQUAD GAME
 
+The following programs/scripts/plugins have only english support, but you may change their source code :)
+
 ⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- The Script for downloading mods to Squad server.** Python
 
 🦈 [SquadJS-Cheater-Detection](https://github.com/ar1ocker/SquadJS-cheater-detection) **- Detecting and removing cheaters who use ApplyExplosiveDamage to attack Squad servers** JavaScript, SquadJS
