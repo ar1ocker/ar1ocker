@@ -18,7 +18,7 @@ The following programs/scripts/plugins have multi-language support
 
 ### 🔫 SQUAD GAME
 
-The following programs/scripts/plugins have only english support, but you may change their source code :)
+The following programs/scripts/plugins support English only, but you may change their source code :)
 
 ⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- The Script for downloading mods to Squad server.** Python
 
@@ -31,6 +31,8 @@ The following programs/scripts/plugins have only english support, but you may ch
 # Russian
 
 ### 🔫 SQUAD GAME
+
+The following programs/scripts/plugins support the Russian language :)
 
 💼 [Squad-Admin-Configurator](https://github.com/ar1ocker/Squad-Admin-Configurator) **- Сервис управление привилегированными пользователями и ротациями в Squad.** Python, Django 4.2, Django Cron, Nginx, PostgreSQL, Docker Compose
 
