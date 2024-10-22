@@ -20,7 +20,7 @@ The following programs/scripts/plugins have multi-language support
 
 ⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- The Script for downloading mods to Squad server.** Python
 
-🦈 [SquadJS-Cheater-Detection](https://github.com/ar1ocker/SquadJS-cheater-detection) **- Detect and kick cheaters using ApplyExplosiveDamage spam to the Squad server** JavaScript, SquadJS
+🦈 [SquadJS-Cheater-Detection](https://github.com/ar1ocker/SquadJS-cheater-detection) **- Detecting and removing cheaters who use ApplyExplosiveDamage to attack Squad servers** JavaScript, SquadJS
 
 ### 🤔 OTHERS
 
