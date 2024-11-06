@@ -40,6 +40,10 @@ The following programs/scripts/plugins support the Russian language :)
 
 🤖 [Squad-Admin-Configurator Discord](https://github.com/ar1ocker/Squad-Admin-Configurator-Discord) **- Discord бот для просмотра и добавления привилегированных пользователей в Squad-Admin-Configurator.** Python, Py-Cord, Docker
 
+🕶 [SquadJS-Vip-For-Seed](https://github.com/ar1ocker/SquadJS-Vip-For-Seed) **- Плагин для SquadJS который выдаёт роль игроку за сид. Роль выдаётся через вебхук в Squad-Admin-Configurator**
+
+⚖️ [SquadJS-Show-Balance](https://github.com/ar1ocker/SquadJS-Show-Balance) - **- Плагин для SquadJS который показывает баланс сторон по игрокам и по сквадным, за параметр для расчета баланса выбирается время игроков в игре**
+
 📢 [Squad-Discord-Info](https://github.com/ar1ocker/Squad_Discord_Info) **- Отображение состояния сервера Squad в статусе бота в Discord.** Golang, DiscordGo
 
 📈 [Squad-rotation-balancer](https://github.com/ar1ocker/Squad-rotation-balancer) **- Приложение для балансировки ротаций с учетом предпочтений игроков к определенным картам.** Python, NiceGUI, Matplotlib, Docker Compose, Nginx
