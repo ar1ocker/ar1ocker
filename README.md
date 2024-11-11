@@ -16,6 +16,8 @@ The following programs/scripts/plugins have multi-language support
 
 🦵 [SquadJS-Disband-Squad-By-Name](https://github.com/ar1ocker/SquadJS-Disband-Squad-By-Name) **- The plugin for disband squads by its name**
 
+💬 [SquadJS-Warn-Player-By-Role](https://github.com/ar1ocker/SquadJS-Warn-Player-By-Role) **- The plugin for player's warns when he takes on a certain role**
+
 ⏩ [Squadjs-Skipmap-Plugin](https://github.com/ar1ocker/Squadjs-skipmap-plugin) **- Squadjs plugin for voting for skipping a map** JavaScript, SquadJS
 
 # English
@@ -55,6 +57,8 @@ The following programs/scripts/plugins support the Russian language :)
 🦵 [SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- Плагин для SquadJS для блокирования ролей игрокам с малым суммарным временем игры.**
 
 🦵 [SquadJS-Disband-Squad-By-Name](https://github.com/ar1ocker/SquadJS-Disband-Squad-By-Name) **- Плагин для расформирования отрядов по их имени**
+
+💬 [SquadJS-Warn-Player-By-Role](https://github.com/ar1ocker/SquadJS-Warn-Player-By-Role) **- Плагин для варнов игрока когда он берет определенную роль**
 
 🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- Плагин для SquadJS на голосование запускаемое командиром стороны (CMD) для разжалования командира отряда.** JavaScript, SquadJS
 
