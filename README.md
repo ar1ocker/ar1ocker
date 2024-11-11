@@ -50,7 +50,9 @@ The following programs/scripts/plugins support the Russian language :)
 
 📈 [Squad-rotation-balancer](https://github.com/ar1ocker/Squad-rotation-balancer) **- Приложение для балансировки ротаций с учетом предпочтений игроков к определенным картам.** Python, NiceGUI, Matplotlib, Docker Compose, Nginx
 
-🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- Плагин для SquadJS для блокирования ролей игрокам с малым суммарным временем игры.**
+🦵 [SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- Плагин для SquadJS для блокирования ролей игрокам с малым суммарным временем игры.**
+
+🦵 [SquadJS-Disband-Squad-By-Name](https://github.com/ar1ocker/SquadJS-Disband-Squad-By-Name) **- Плагин для расформирования отрядов по их имени**
 
 🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- Плагин для SquadJS на голосование запускаемое командиром стороны (CMD) для разжалования командира отряда.** JavaScript, SquadJS
 
