@@ -14,6 +14,8 @@ The following programs/scripts/plugins have multi-language support
 
 ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- The plugin for SquadJS that shows side commanders (CMD) after a certain time after the map starts.** JavaScript, SquadJS
 
+🦵 [SquadJS-Disband-Squad-By-Name](https://github.com/ar1ocker/SquadJS-Disband-Squad-By-Name) **- The plugin for disband squads by its name**
+
 ⏩ [Squadjs-Skipmap-Plugin](https://github.com/ar1ocker/Squadjs-skipmap-plugin) **- Squadjs plugin for voting for skipping a map** JavaScript, SquadJS
 
 # English
