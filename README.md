@@ -44,6 +44,8 @@ The following programs/scripts/plugins support the Russian language :)
 
 ⚖️ [SquadJS-Show-Balance](https://github.com/ar1ocker/SquadJS-Show-Balance) - **- Плагин для SquadJS который показывает баланс сторон по игрокам и по сквадным, за параметр для расчета баланса выбирается время игроков в игре**
 
+💬 [SquadJS-Fighters-Playtime](https://github.com/ar1ocker/SquadJS-Fighters-Playtime) - **Плагин который показывает игровое время игроков в различных ситуациях**
+
 📢 [Squad-Discord-Info](https://github.com/ar1ocker/Squad_Discord_Info) **- Отображение состояния сервера Squad в статусе бота в Discord.** Golang, DiscordGo
 
 📈 [Squad-rotation-balancer](https://github.com/ar1ocker/Squad-rotation-balancer) **- Приложение для балансировки ротаций с учетом предпочтений игроков к определенным картам.** Python, NiceGUI, Matplotlib, Docker Compose, Nginx
