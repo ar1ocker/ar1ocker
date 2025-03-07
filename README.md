@@ -6,7 +6,9 @@ The following programs/scripts/plugins have multi-language support
 
 ### 🔫 SQUAD GAME
 
-🦵[SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- The plugin for SquadJS to block roles for players with low total play time.**
+🦵 [SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- The plugin for SquadJS to block roles for players with low total play time.**
+
+🔗 [SquadJS-Express-Server-API](https://github.com/ar1ocker/SquadJS-Express-Server-API) **- API for SquadJS for getting information from the server**
 
 🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- The plugin for SquadJS for a vote triggered by a side commander (CMD) to demote a squad leader.** JavaScript, SquadJS
 
@@ -41,6 +43,10 @@ The following programs/scripts/plugins support English only, but you may change 
 The following programs/scripts/plugins support the Russian language :)
 
 💼 [Squad-Admin-Configurator](https://github.com/ar1ocker/Squad-Admin-Configurator) **- Сервис управление привилегированными пользователями и ротациями в Squad.** Python, Django 4.2, Django Cron, Nginx, PostgreSQL, Docker Compose
+
+⌛️ [Playtime-Service](https://github.com/ar1ocker/Playtime-Service) **- Сервис для получения, хранения и поиска времени игроков в определенной игре** Python, Django 5.1, PostgreSQL, Nginx, Docker Compose
+
+⌛️ [Playtime-Service-JS-Lib](https://github.com/ar1ocker/Playtime-Service-JS-Lib) **- Библиотека для получения информации из Playtime-Service**
 
 🤖 [Squad-Admin-Configurator Discord](https://github.com/ar1ocker/Squad-Admin-Configurator-Discord) **- Discord бот для просмотра и добавления привилегированных пользователей в Squad-Admin-Configurator.** Python, Py-Cord, Docker
 
