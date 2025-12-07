@@ -1,47 +1,5 @@
 # AR1OCKER
 
-# Multi-language
-
-The following programs/scripts/plugins have multi-language support
-
-### 🔫 SQUAD GAME
-
-🦵 [SquadJS-Playtime-Role-Ban](https://github.com/ar1ocker/SquadJS-Playtime-Role-Ban) **- The plugin for SquadJS to block roles for players with low total play time.**
-
-🔗 [SquadJS-Express-Server-API](https://github.com/ar1ocker/SquadJS-Express-Server-API) **- API for SquadJS for getting information from the server**
-
-🔨 [SquadJS-Commander-Vote](https://github.com/ar1ocker/SquadJS-Commander-Vote) **- The plugin for SquadJS for a vote triggered by a side commander (CMD) to demote a squad leader.** JavaScript, SquadJS
-
-🛡️ [SquadJS-Command-Squad-Name-Protection](https://github.com/ar1ocker/SquadJS-Command-Squad-Name-Protection) **- The plugin protects against the manual creation of a squad named "Command Squad"** JavaScript, SquadJS
-
-ℹ️ [SquadJS-Commander-Info](https://github.com/ar1ocker/SquadJS-Commander-Info) **- The plugin for SquadJS that shows side commanders (CMD) after a certain time after the map starts.** JavaScript, SquadJS
-
-🦵 [SquadJS-Disband-Squad-By-Name](https://github.com/ar1ocker/SquadJS-Disband-Squad-By-Name) **- The plugin for disband squads by its name**
-
-💬 [SquadJS-Warn-Player-By-Role](https://github.com/ar1ocker/SquadJS-Warn-Player-By-Role) **- The plugin for player's warns when he takes on a certain role**
-
-⏩ [Squadjs-Skipmap-Plugin](https://github.com/ar1ocker/Squadjs-skipmap-plugin) **- Squadjs plugin for voting for skipping a map** JavaScript, SquadJS
-
-# English
-
-### 🔫 SQUAD GAME
-
-The following programs/scripts/plugins support English only, but you may change their source code :)
-
-⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- The Script for downloading mods to Squad server.** Python
-
-🦈 [SquadJS-Cheater-Detection](https://github.com/ar1ocker/SquadJS-cheater-detection) **- Detecting and removing cheaters who use ApplyExplosiveDamage to attack Squad servers** JavaScript, SquadJS
-
-### 🤔 OTHERS
-
-📱 [LOST.DIR-recover](https://github.com/ar1ocker/LOST.DIR-recover) **- Recover file extensions.** Python, Fleep 
-
-# Russian
-
-### 🔫 SQUAD GAME
-
-The following programs/scripts/plugins support the Russian language :)
-
 💼 [Squad-Admin-Configurator](https://github.com/ar1ocker/Squad-Admin-Configurator) **- Сервис управление привилегированными пользователями и ротациями в Squad.** Python, Django 4.2, Django Cron, Nginx, PostgreSQL, Docker Compose
 
 ⌛️ [Playtime-Service](https://github.com/ar1ocker/Playtime-Service) **- Сервис для получения, хранения и поиска времени игроков в определенной игре** Python, Django 5.1, PostgreSQL, Nginx, Docker Compose
@@ -75,3 +33,25 @@ The following programs/scripts/plugins support the Russian language :)
 🦈 [SquadJS-Cheater-Detection](https://github.com/ar1ocker/SquadJS-cheater-detection) **- Плагин для SquadJS на выявления читеров спамящих ApplyExplosiveDamage.** JavaScript, SquadJS
 
 ⏩ [Squadjs-Skipmap-Plugin](https://github.com/ar1ocker/Squadjs-skipmap-plugin) **- Плагин для SquadJS на голосование за пропуск текущей карты.** JavaScript, SquadJS
+
+⏱️ [SquadJS-Timer-Plugins](https://github.com/ar1ocker/SquadJS-Timer-Plugins) **- Плагины для SquadJS для установки таймеров с напоминаниями** JavaScript, SquadJS
+
+📨 [SquadJS-Invite-Plugin](https://github.com/ar1ocker/SquadJS-Invite-Plugin) **- Плагин для SquadJS для запроса вступления в отряд с отображением времени игры** JavaScript, SquadJS
+
+🔗 [SquadJS-Join-Lobby](https://github.com/ar1ocker/SquadJS-Join-Lobby) **- Плагин для SquadJS с REST API для получения ссылки на подключение игроков к серверу через Steam лобби** JavaScript, SquadJS, Express
+
+💰 [Gaming-Billing-Squadjs-Plugins](https://github.com/ar1ocker/Gaming-Billing-Squadjs-Plugins) **- Набор плагинов для SquadJS для интеграции с сервисом игровой валюты** JavaScript, SquadJS
+
+🛡️ [SquadJS-Active-Nameclaim](https://github.com/ar1ocker/SquadJS-Active-Nameclaim) **- Плагин для SquadJS для защиты техники от отрядов, не назвавших отряд наименованием техники** JavaScript, SquadJS
+
+🚫 [SquadJS-Teamkill-Penalty](https://github.com/ar1ocker/SquadJS-Teamkill-Penalty) **- Плагин для SquadJS, который кикает игрока после получения определенного количества репортов за тимкиллы** JavaScript, SquadJS
+
+🔫 [SquadJS-Show-Attacker](https://github.com/ar1ocker/SquadJS-Show-Attacker) **- Плагин для SquadJS, показывающий вашего убийцу и его игровое время с возможностью ответного сообщения** JavaScript, SquadJS
+
+🔗 [SquadJS-Express-Server-API](https://github.com/ar1ocker/SquadJS-Express-Server-API) **- API для SquadJS для получения различной информации с сервера** JavaScript, SquadJS
+
+🔍 [Steam-Playtime-Searcher](https://github.com/ar1ocker/Steam-Playtime-Searcher) **- Библиотека для поиска времени игры в Steam, используемая в SquadJS плагинах, поиск напрямую, без Playtime-Service** JavaScript, Steam API
+
+⏳ [Squad-Mod-Downloader](https://github.com/ar1ocker/Squad-Mod-Downloader) **- Скрипт для скачивания модов для сервера из Steam** Python
+
+📱 [LOST.DIR-recover](https://github.com/ar1ocker/LOST.DIR-recover) **- Скрипт для восстановления расширений файлов** Python, Fleep 
